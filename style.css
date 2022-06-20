@@ -28,7 +28,7 @@ main {
 
 .content {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     position: absolute;
     top: 200px;
     border: solid black 6px;
@@ -42,6 +42,25 @@ aside, article {
 aside {
     border-right: dotted black 4px;
     margin-right: 6px;
+}
+
+.texto {
+    display: flex;
+}
+
+.lista {
+    border-top: solid black 6px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.lista-licoes-aprendidas, .lista-licoes-inaprendidas {
+    margin: 8px 8px 8px 32px;
+}
+
+#licoes_aprendidas {
+    list-style: decimal;
+    
 }
 
 footer {
