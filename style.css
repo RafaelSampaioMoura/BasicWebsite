@@ -2,3 +2,33 @@
     margin: 0;
     padding: 0;
 }
+
+.container {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    grid-template-areas: 
+        "header header header"
+        "main main main"
+        "footer footer footer";
+}
+
+header {
+    grid-area: header;
+}
+
+main {
+    grid-area: main;
+}
+
+footer {
+    grid-area: footer;
+}
+
+#cabecalho {
+    top: 0;
+    text-align: center;
+    position: fixed;
+    right: 0;
+}
+
