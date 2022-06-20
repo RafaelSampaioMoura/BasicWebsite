@@ -16,6 +16,7 @@
 
 header {
     grid-area: header;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .foto-perfil {
@@ -25,6 +26,7 @@ header {
 main {
     grid-area: main;
     margin-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .content {
@@ -49,7 +51,7 @@ aside {
     display: flex;
 }
 
-.lista {
+.lista-e-tabela {
     border-top: solid black 6px;
     display: flex;
     justify-content: space-evenly;
@@ -70,6 +72,8 @@ footer {
     bottom: 0px;
     text-align: center;
     width: 100vw;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.67rem;
 }
 
 #cabecalho {
@@ -80,3 +84,11 @@ footer {
     width: 100vw;
 }
 
+.tumblr {
+    
+}
+
+table, th, td {
+    border: 1px solid;
+    padding: 3px;
+}
