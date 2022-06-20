@@ -24,6 +24,7 @@ header {
 
 main {
     grid-area: main;
+    margin-bottom: 30px;
 }
 
 .content {
@@ -65,6 +66,10 @@ aside {
 
 footer {
     grid-area: footer;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    width: 100vw;
 }
 
 #cabecalho {
