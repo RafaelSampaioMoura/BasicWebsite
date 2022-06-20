@@ -17,6 +17,8 @@
 header {
     grid-area: header;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: crimson;
+    background-color: darkgreen;
 }
 
 .foto-perfil {
@@ -84,9 +86,6 @@ footer {
     width: 100vw;
 }
 
-.tumblr {
-    
-}
 
 table, th, td {
     border: 1px solid;
