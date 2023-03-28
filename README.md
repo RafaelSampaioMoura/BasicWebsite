@@ -28,11 +28,11 @@ Then, either open the root directory with VS Code and click "Go Live" on the bot
 <img src="https://i.imgur.com/ZC1DBaG.png" alt="vs-code-go-live" />
 
 Or simple right-click the html file and open with your preferred web browser.
-<details/>
+</details>
 
 ##Portuguese
 <details>
-<summary>Clique para Expandir<summary/>
+<summary>Clique para Expandir</summary>
 
 ##Sobre
 Esse é uma simples página web criada com o intuito de praticar os fundamentos de HTML e posicionamento de CSS.
@@ -58,4 +58,4 @@ Depois, você pode abrir a pasta do projeto no VS Code e clicar em "Go Live":
 <img src="https://i.imgur.com/ZC1DBaG.png" alt="vs-code-go-live" />
 
 Ou clicar com o botão direito do mouse e abrir o arquivo html no seu navegador de preferência.
-<details/>
+</details>
