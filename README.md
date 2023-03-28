@@ -1,8 +1,8 @@
-<h1 align="center">Salutations!<h1/>
+<h1 align="center">Salutations!</h1>
 
 ##English
 <details>
-<summary>Click to Expand<summary/>
+<summary>Click to Expand</summary>
 
 ##About
 This is a simple webpage made in order to practice the fundamentals of HTML and CSS positioning.
@@ -25,7 +25,7 @@ git clone git@github.com:RafaelSampaioMoura/BasicWebsite.git
 ```
 
 Then, either open the root directory with VS Code and click "Go Live" on the bottom:
-<img src="[https://imgur.com/ZC1DBaG](https://i.imgur.com/ZC1DBaG.png)" alt="vs-code-go-live" />
+<img src="https://i.imgur.com/ZC1DBaG.png" alt="vs-code-go-live" />
 
 Or simple right-click the html file and open with your preferred web browser.
 <details/>
@@ -55,7 +55,7 @@ git clone git@github.com:RafaelSampaioMoura/BasicWebsite.git
 ```
 
 Depois, você pode abrir a pasta do projeto no VS Code e clicar em "Go Live":
-<img src="[https://imgur.com/ZC1DBaG](https://i.imgur.com/ZC1DBaG.png)" alt="vs-code-go-live" />
+<img src="https://i.imgur.com/ZC1DBaG.png" alt="vs-code-go-live" />
 
 Ou clicar com o botão direito do mouse e abrir o arquivo html no seu navegador de preferência.
 <details/>
