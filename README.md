@@ -1,17 +1,17 @@
 <h1 align="center">Salutations!</h1>
 
-##English
+## English
 <details>
 <summary>Click to Expand</summary>
 
-##About
+### About
 This is a simple webpage made in order to practice the fundamentals of HTML and CSS positioning.
 
-##Tech & Tools
+### Tech & Tools
 <img src="https://img.shields.io/badge/HTML-%20-orange" alt="html-logo" />
 <img src="https://img.shields.io/badge/CSS-%20-blue" alt="css-logo" />
 
-##Installation
+### Installation
 If you want to open this webpage on your machine, first make a new directory:
 
 ```
@@ -30,18 +30,18 @@ Then, either open the root directory with VS Code and click "Go Live" on the bot
 Or simple right-click the html file and open with your preferred web browser.
 </details>
 
-##Portuguese
+## Portuguese
 <details>
 <summary>Clique para Expandir</summary>
 
-##Sobre
+### Sobre
 Esse é uma simples página web criada com o intuito de praticar os fundamentos de HTML e posicionamento de CSS.
 
-##Tech & Tools
+### Tech & Tools
 <img src="https://img.shields.io/badge/HTML-%20-orange" alt="html-logo" />
 <img src="https://img.shields.io/badge/CSS-%20-blue" alt="css-logo" />
 
-##Installation
+### Installation
 Se você quiser abrir essa página na sua máquina, primeiro crie um novo diretório:
 
 ```
